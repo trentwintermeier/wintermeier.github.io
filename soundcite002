@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'>
+  <script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+</head>  
+<body>  
+  <p><span class="soundcite" data-url="https://dase.laits.utexas.edu/media/mexican_american_experience/mp3/000536953.mp3" data-start="216000" data-end="244000" data-plays="1">If you look historically, again, at the relationship between the police and the Chicano community has been one of conflict.</span></p>
+<p></p>
+  <p>You can listen to the full interview below:</p>
+  <audio controls>
+  <source src="https://dase.laits.utexas.edu/media/mexican_american_experience/mp3/000536953.mp3" data-start="0" data-end="56000" data-plays="1"></audio>
+  </body>
+</html>
